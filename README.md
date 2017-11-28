@@ -1,0 +1,1 @@
+This text based python game was created as part of an online python tutorial, i actually enjoyed creating this game as well as playing it. I will be working on updating and increasing the game to add more adventures to it.
